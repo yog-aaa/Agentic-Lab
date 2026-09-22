@@ -1,0 +1,10 @@
+google-genai
+pydantic
+python-dotenv
+pytest
+rich
+textual
+fastapi
+uvicorn
+websockets
+httpx
